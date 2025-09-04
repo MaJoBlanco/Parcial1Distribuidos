@@ -13,4 +13,7 @@ Comando de ejecución de la imagen
 <img width="826" height="397" alt="image" src="https://github.com/user-attachments/assets/89a0bd45-e9c1-471a-a3ac-ae574f5a26b0" />
 
 SEGUNDO PUNTO
+Creación volumen y de contenedor
+
+<img width="942" height="178" alt="image" src="https://github.com/user-attachments/assets/f0b68b04-adb6-4023-9f6c-ce291f2c8bba" />
 
