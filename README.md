@@ -51,3 +51,13 @@ Contenedor
 Nginx navegador web
 
 <img width="862" height="368" alt="image" src="https://github.com/user-attachments/assets/353235ad-7abe-45a2-886c-ac4af57a0813" />
+
+
+<img width="854" height="148" alt="image" src="https://github.com/user-attachments/assets/8e8b44b9-5b67-4419-94c3-880a6488e51a" />
+
+
+Creación de la imagen con redis
+
+<img width="837" height="397" alt="image" src="https://github.com/user-attachments/assets/f656d554-77a2-42f4-9575-d6a371a65e03" />
+
+<img width="819" height="43" alt="image" src="https://github.com/user-attachments/assets/93f721e2-e8e7-4f20-9580-f028c2278512" />
